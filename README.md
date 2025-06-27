@@ -45,6 +45,30 @@ The project is divided into two major stages:
      .Feature importance ranking
 
 
+
+
+Stage 2: Data exploration and visualization
+Notebook Contents:
+    1.Introduction
+    2.Notebook setup - libraries and data import, notes on the data source
+    3.Global data overview
+    4.Feature/column abbreviations and units
+    5.Definition of the hypothesis to be tested
+    6.Feature engineering
+         .features overview
+         .derivation of additional important features
+         .removal of unnecessary features
+    7.Prepare the visualization
+    8.Create plots
+         .a global look onto all relationships and detailed plots of chosen dependencies
+         .correlation matrix heatmaps
+         .scatterplots, histograms
+         .detection of outliers
+         .discussion of dependencies and trends
+    9.Conclusions
+
+
+
 📈 Goal
 Build an accurate machine learning model to predict CO₂ emissions based on a diverse set of country-level parameters. Alongside, extract insights on what features drive emissions most across regions and time.
 
